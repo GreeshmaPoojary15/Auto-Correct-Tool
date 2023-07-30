@@ -1,4 +1,4 @@
-BHARTAH INTERN TASK 2
+BHARATH INTERN TASK 2
 
 https://github.com/GreeshmaPoojary15/Auto-Correct-Tool/assets/103486429/60060dab-d970-4bbb-9b18-e95be9cb0785
 
